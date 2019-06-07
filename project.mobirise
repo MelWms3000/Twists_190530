@@ -36,7 +36,13 @@
     "siteFonts": [],
     "uniqCompNum": 10,
     "versionPublish": "4.10.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/istockphoto-497948216-612x612-128x128-1.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "gdpr": "",
+    "google-analytics": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
